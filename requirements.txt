@@ -1,5 +1,4 @@
 fastapi
 uvicorn
 sciket-learn
-pickle
 numpy
